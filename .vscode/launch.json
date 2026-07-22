@@ -4,11 +4,12 @@
     // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
     "version": "0.2.0",
     "configurations": [
+
         {
             "type": "editor-browser",
             "request": "launch",
             "name": "Open index.html",
-            "url": "file:///d%3A/%EC%A7%80%EC%A4%80%EC%97%BD/apple2026/index.html"
+            "url": "file:///D:/%EC%A7%80%EC%A4%80%EC%97%BD/coding/index.html"
         }
     ]
 }
