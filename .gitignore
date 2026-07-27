@@ -3,7 +3,7 @@ backup/
 apple2026/
 
 # 제외파일
-apple2026.zip
+# apple2026.zip
 참고파일.html
 
 # 이미지 백업폴더 모든파일 제외
@@ -12,6 +12,6 @@ image/backup/*
 # 사운드 백업폴더 모든파일 제외
 sound/backup/*
 
-# backup lion1.mp3 은 제외하지만 만 포함
+# backup은 제외하지만 lion1.mp3만 포함
 !sound/backup/
-!sound/backup/lion1.mp3
+!sound/backup/lion1.mp3  
