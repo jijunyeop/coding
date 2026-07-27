@@ -11,7 +11,7 @@
 브라우저에서 index.html 실행
 
 ## 주소
-https://깃허브이름.github.io/apple2026/
+https://jijunyeop.github.io/coding/
 
 ## 수정일기
 1차 사과 1개 표시 – 2026-4-12
